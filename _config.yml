@@ -15,12 +15,12 @@ theme                  : "minimal-mistakes-jekyll"
 minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
+locale                   : ""
 title                    : "아니"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "야발"
-description              : "성강진 고환결손"
+description              : ""
 url                      : "https://pmfpdf.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -93,11 +93,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "성강진"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "이게 클럽이고 이게 유흥이야"
+  location         : ""
+  email            : "zeskywa499@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -274,8 +274,8 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
-      read_time: true
+      author_profile: false
+      read_time: false
       comments: # true
-      share: true
-      related: true
+      share: false
+      related: false
