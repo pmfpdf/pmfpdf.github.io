@@ -15,11 +15,11 @@ theme                  : "minimal-mistakes-jekyll"
 minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : ""
+locale                   : "아니"
 title                    : "아니"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "야발"
+name                     : "ball"
 description              : ""
 url                      : "https://pmfpdf.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
